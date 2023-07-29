@@ -1,5 +1,3 @@
-
-https://github.com/CHEPHYTY/Normal_Bottom_Bar_Navigation_Tutorial/assets/101518415/66b9b77d-5756-4bcf-9616-ae599667a6cf
 # Android Navigation App Tutorial
 
 ## Navigation App
@@ -51,8 +49,8 @@ TO DO so got to res_Folder >> Right Click >> New >> Android Resource Directory
 And then a dash Board Open choose Value as __menu__ and name the directory as __menu__
 
 
+https://github.com/CHEPHYTY/Normal_Bottom_Bar_Navigation_Tutorial/assets/101518415/66b9b77d-5756-4bcf-9616-ae599667a6cf
 
-https://github.com/CHEPHYTY/Normal_Bottom_Bar_Navigation_Tutorial/assets/101518415/2eb7c873-3f16-4489-a953-5f51c3b017e2
 
 
 Create a Bottom_menu.xml to store for navigating the location.
