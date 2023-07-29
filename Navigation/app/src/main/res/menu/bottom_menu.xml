@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/Yellow"
+        android:title="Home" />
+    <item
+        android:id="@+id/Shorts"
+        android:icon="@drawable/ic_shorts"
+
+        android:iconTint="@color/Yellow"
+        android:title="DashBoard" />
+    <item
+        android:id="@+id/Add"
+        android:icon="@drawable/ic_add"
+        android:iconTint="@color/Yellow"
+
+        android:title="Add" />
+    <item
+        android:id="@+id/Subscription"
+        android:icon="@drawable/ic_subscriptions"
+
+        android:iconTint="@color/Yellow"
+        android:title="Subscription" />
+    <item
+        android:id="@+id/library"
+        android:icon="@drawable/ic_library"
+
+        android:iconTint="@color/Yellow"
+        android:title="library" />
+
+</menu>
