@@ -3,8 +3,8 @@
 ## Navigation App
 
 > OBJECTIVE: This is a Short Tutorial for Using Normal Bottom_Navigation to navigate from one activity to another.
+[![image](https://github.com/CHEPHYTY/Normal_Bottom_Bar_Navigation_Tutorial/assets/101518415/36949f14-97b7-4a61-8125-5b1d90b05ffe)](https://youtube.com/shorts/mMA03EUpZsg?feature=share)
 
-[![image](https://github.com/CHEPHYTY/Normal_Bottom_Bar_Navigation_Tutorial/assets/101518415/4796a6b4-34fd-45ed-8797-c97e36b2930e)](https://youtube.com/shorts/mMA03EUpZsg?feature=share)
 
 > [To Watch the video click on the picture](https://youtube.com/shorts/mMA03EUpZsg?feature=share)
 >
